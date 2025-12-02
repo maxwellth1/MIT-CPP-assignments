@@ -13,5 +13,5 @@ string pigLatinify(const string s){
 int main(){
     string word;
     cin >> word;
-    pigLatinify(word);
+    cout << pigLatinify(word);
 }
